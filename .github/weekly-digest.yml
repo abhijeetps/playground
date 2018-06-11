@@ -1,0 +1,4 @@
+# Configuration for weekly-digest - https://github.com/apps/weekly-digest
+dayToPublish: 0
+issues: true
+pullRequests: true
